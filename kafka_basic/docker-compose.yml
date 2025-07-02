@@ -1,3 +1,4 @@
+# Running kafka with zookeeper, this file is created by Claude, i don't know how it work
 version: '3.8'
 
 services:
